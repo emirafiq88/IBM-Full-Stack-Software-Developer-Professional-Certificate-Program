@@ -19,3 +19,5 @@
   - [x] Module 3. CSS Overview and HTML5 Elements
   - [x] Module 4. javaScript Programming for Web Applications
   - [x] Module 5. Final Project
+  
+<img src = "Introduction%20to%20Web%20Development%20with%20HTML%2C%20CSS%2C%20JavaScript/534GY2CP8A3E.png?raw=true" style=" max-width: 100%" class="hoverZoomLink">
