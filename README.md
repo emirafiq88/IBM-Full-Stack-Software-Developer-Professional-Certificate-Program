@@ -11,6 +11,6 @@
   - [x] Module 5. Cloud Security, Monitoring, Case Studies, Jobs
   - [x] Module 6. Final Project and Assignment
 
-  <img src = "/Introduction%20to%20Cloud%20Computing/Coursera%20TXDF9QRQBSVL.pdf?raw=true" style=" max-width: 100%" class="hoverZoomLink">
+  <img src = "Introduction%20to%20Cloud%20Computing/TXDF9QRQBSVL.png?raw=true" style=" max-width: 100%" class="hoverZoomLink">
 
   ### Course 1. Introduction to Web Development with HTML, CSS, JavaScript (Completed 2023-10-02) ###
