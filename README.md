@@ -13,4 +13,9 @@
 
   <img src = "Introduction%20to%20Cloud%20Computing/TXDF9QRQBSVL.png?raw=true" style=" max-width: 100%" class="hoverZoomLink">
 
-  ### Course 1. Introduction to Web Development with HTML, CSS, JavaScript (Completed 2023-10-02) ###
+  ### Course 2. Introduction to Web Development with HTML, CSS, JavaScript (Completed 2023-10-02) ###
+  - [x] Module 1. Introduction to Application Development
+  - [x] Module 2. HTML Overview
+  - [x] Module 3. CSS Overview and HTML5 Elements
+  - [x] Module 4. javaScript Programming for Web Applications
+  - [x] Module 5. Final Project
