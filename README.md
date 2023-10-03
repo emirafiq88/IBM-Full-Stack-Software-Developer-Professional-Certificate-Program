@@ -30,6 +30,11 @@
 <img src="Getting%20Started%20with%20Git%20and%20GitHub/ECRQYADDGW4F.png?raw=true" style=" max-width: 100%" class="hoverZoomLink">
 
 ### Course 4. Developing Front-End Apps with React ###
+  - [ ] Module 1. Building Rich Front-End Applications with React and ES6
+  - [ ] Module 2. React Components
+  - [ ] Module 3. Advanced React
+  - [ ] Module 4. Final Project
+
 ### Course 5. Developing Back-End Apps with Node.js and Express ###
 ### Course 6. Python for Data Science, AI and Development ###
 ### Course 7. Developing AI Applications with Python and Flask ###
