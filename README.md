@@ -22,10 +22,12 @@
   
 <img src = "Introduction%20to%20Web%20Development%20with%20HTML%2C%20CSS%2C%20JavaScript/534GY2CP8A3E.png?raw=true" style=" max-width: 100%" class="hoverZoomLink">
 
-### Course 3. Getting Started with Git and GitHub ###
+### Course 3. Getting Started with Git and GitHub (Completed 2023-10-02) ###
   - [x] Module 1. Git and GitHub Fundamentals
   - [x] Module 2. Using Git Commands and Managing GitHub Projects
   - [x] Module 3. Final Project
+
+<img src="Getting%20Started%20with%20Git%20and%20GitHub/ECRQYADDGW4F.png?raw=true" style=" max-width: 100%" class="hoverZoomLink">
 
 ### Course 4. Developing Front-End Apps with React ###
 ### Course 5. Developing Back-End Apps with Node.js and Express ###
