@@ -19,3 +19,21 @@
   - [x] Module 3. CSS Overview and HTML5 Elements
   - [x] Module 4. javaScript Programming for Web Applications
   - [x] Module 5. Final Project
+  
+<img src = "Introduction%20to%20Web%20Development%20with%20HTML%2C%20CSS%2C%20JavaScript/534GY2CP8A3E.png?raw=true" style=" max-width: 100%" class="hoverZoomLink">
+
+### Course 3. Getting Started with Git and GitHub ###
+  - [x] Module 1. Git and GitHub Fundamentals
+  - [x] Module 2. Using Git Commands and Managing GitHub Projects
+  - [x] Module 3. Final Project
+
+### Course 4. Developing Front-End Apps with React ###
+### Course 5. Developing Back-End Apps with Node.js and Express ###
+### Course 6. Python for Data Science, AI and Development ###
+### Course 7. Developing AI Applications with Python and Flask ###
+### Course 8. Django Application Development with SQL and Databases ###
+### Course 9. Introduction to Containers w/ Docker, Kubernetes and OpenShift ###
+### Course 10. Application Development using Microservices and Serverless ###
+### Course 11. Full Stack Cloud Development Capstone Project ###
+### Course 12. Full Stack Software Developer Assessment ###
+
